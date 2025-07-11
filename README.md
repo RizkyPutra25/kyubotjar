@@ -54,3 +54,24 @@ Unduh dan install Python 3.10+ dari [https://www.python.org](https://www.python.
 ```bash
 git clone https://github.com/username-kamu/my-userbot.git
 cd my-userbot
+
+3. Install Dependencies
+python -m pip install -r requirements.txt
+
+4. Isi .env file
+Buat file .env di root project:
+
+API_ID=25######
+API_HASH=cd#################
+STRING_SESSION=ISI_STRING_SESSION
+
+MIKROTIK_HOST=192.###.#.#
+MIKROTIK_PORT=8728
+MIKROTIK_USER=admin
+MIKROTIK_PASS=#######
+
+5. Jalankan Bot
+ python userbot/main.py
+
+"Bot akan mulai aktif dan siap menerima perintah di Telegram".
+
