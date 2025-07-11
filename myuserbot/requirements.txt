@@ -1,3 +1,0 @@
-telethon
-routeros_api
-python-dotenv
