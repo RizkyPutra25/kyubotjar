@@ -51,7 +51,7 @@ Unduh dan install **Python 3.10+** dari [https://www.python.org](https://www.pyt
 ### 2. Clone atau Buat Manual
 
 ```bash
-git clone https://github.com/username-kamu/my-userbot.git
+git clone https://github.com/RizkyPutra25/kyubotjart.git
 cd my-userbot
 ```
 
