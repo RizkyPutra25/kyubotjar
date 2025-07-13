@@ -52,7 +52,7 @@ Unduh dan install **Python 3.10+** dari [https://www.python.org](https://www.pyt
 
 ```bash
 git clone https://github.com/RizkyPutra25/kyubotjar
-cd my-userbot
+cd kyubotjar
 ```
 
 Atau buat manual di laptop, lalu isi file sesuai struktur di atas.
